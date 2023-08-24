@@ -1,5 +1,6 @@
-[
-    {
+{
+    "Licenses": [
+{
         "LicenseKey": "AZTXE-0000-0000-0000-0000",
         "UserName": "Test",
         "LicenseType": "Xero",
@@ -16,5 +17,4 @@
         "TrialEnd": "12/31/2025",
         "TrialActive": "TRUE",
         "LicenseId": "1"
-    }
-]
+    }]}
