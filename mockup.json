@@ -1,0 +1,20 @@
+[
+    {
+        "LicenseKey": "AZTXE-0000-0000-0000-0000",
+        "UserName": "Test",
+        "LicenseType": "Xero",
+        "TrialStart": "08/01/2023",
+        "TrialEnd": "12/31/2025",
+        "TrialActive": "TRUE",
+        "LicenseId": "1"
+    },
+    {
+        "LicenseKey": "AZTXE-0000-0000-0000-0001",
+        "UserName": "Test2",
+        "LicenseType": "Xero",
+        "TrialStart": "08/01/2023",
+        "TrialEnd": "12/31/2025",
+        "TrialActive": "TRUE",
+        "LicenseId": "1"
+    }
+]
